@@ -187,24 +187,6 @@ My preferred workflow is simple:
 
 ---
 
-## Public projects
-
-### Geodata utilities
-
-- [**MKAD_POLYGON**](https://github.com/Dpsley/MKAD_POLYGON) — polygon data for the area inside the Moscow Ring Road.
-- [**CKAD_POLYGON**](https://github.com/Dpsley/CKAD_POLYGON) — polygon data related to the Central Ring Road.
-- [**MOSCOW_POLYGON**](https://github.com/Dpsley/MOSCOW_POLYGON) — Moscow district polygon data.
-
-### Web and utility projects
-
-- [**parser**](https://github.com/Dpsley/parser)
-- [**WP-endpoints**](https://github.com/Dpsley/WP-endpoints)
-- [**type-and-taxonomies-WP**](https://github.com/Dpsley/type-and-taxonomies-WP)
-
-Most of my production work lives in private corporate repositories, so the public profile shows only part of the engineering chaos.
-
----
-
 ## GitHub analytics
 
 <div align="center">
@@ -225,20 +207,3 @@ Most of my production work lives in private corporate repositories, so the publi
 
 ---
 
-## Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dpsley&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-### Build useful things. Understand how they fail. Make them fail less.
-
-`backend` · `AI` · `LLMOps` · `infrastructure` · `observability`
-
-</div>
