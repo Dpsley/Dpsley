@@ -118,7 +118,7 @@ I am not made entirely of YAML and stack traces.
 ### Languages & backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,fastapi,flask,laravel,nodejs" alt="Languages and backend"/>
+  <img src="https://skillicons.dev/icons?i=python,php,fastapi,flask,laravel,nodejs,go" alt="Languages and backend"/>
 </p>
 
 ### AI, ML & data
